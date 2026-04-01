@@ -73,6 +73,23 @@ Funciona quase como um **tutor particular**.
 
 ---
 
+# ⚡ **Dica prática**
+
+Uma boa sequência no dia a dia é:
+
+Ask → Plan → Edit → Agent
+
+Entende o problema
+Planeja a solução
+Faz ajustes pontuais
+Delega o restante
+
+Ou, se estiver estudando:
+
+Ask → Study
+
+---
+
 # 🧠 Resumo mental rápido
 - **Ask** → entender  
 - **Plan** → planejar antes de agir  
